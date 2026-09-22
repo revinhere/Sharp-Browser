@@ -147,12 +147,15 @@ Some natural areas for future development include custom themes, extension suppo
 
 ## 📄 License
 
-SharpBrowser
-Copyright (©) 2026 @RevinHere
+SharpBrowser is licensed under the Apache License 2.0.
 
-Licensed under the Apache License, Version 2.0.
-You may obtain a copy of the License at:
-https://www.apache.org/licenses/LICENSE-2.0
+Copyright © 2026 RevinHere.
+
+You are free to use, modify, and redistribute this project in accordance
+with the terms of the Apache License 2.0.
+
+See [LICENSE](LICENSE) for the full license text and [NOTICE](NOTICE)
+for attribution information.
 
 ---
 
