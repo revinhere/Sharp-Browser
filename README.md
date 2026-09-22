@@ -149,7 +149,7 @@ Some natural areas for future development include custom themes, extension suppo
 
 SharpBrowser is licensed under the Apache License 2.0.
 
-Copyright © 2026 RevinHere.
+Copyright © 2026 @RevinHere.
 
 You are free to use, modify, and redistribute this project in accordance
 with the terms of the Apache License 2.0.
